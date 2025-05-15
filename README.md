@@ -27,7 +27,7 @@ Foi utilizada a biblioteca `yt-dlp` para obter links diretos de vídeos do YouTu
 
 1. **Captura do link via yt-dlp**
 
-   ![uso de yt-dlp](./readme-imgs/yt-dlp.png)
+   ![uso de yt-dlp](./readme-imgs/ytdlp.png)
 
 2. **Execução do snippet no navegador**
 
